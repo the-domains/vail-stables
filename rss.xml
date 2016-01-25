@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 04:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 04:56:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vail]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vail-stables/just-the-faqs-mam/index.html</link>
             <guid isPermaLink="false">8bdff0cc-f688-4d0b-98e6-00c849ddacd8</guid>
             <pubDate>Mon, 25 Jan 2016 04:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The credit card you use to hold your reservation is NOT CHARGED at the time of booking.  It is authorized for $1 and subsequently voided to assure the booking system that the card is a valid card.  You may pay with cash, multiple credit cards or by doing a lot of chores once you arrive. </p>]]></description>
+            <link>https://thegrid.ai/vail-stables/d55f73a9-7bb3-47d0-90f1-b10f87409271/index.html</link>
+            <guid isPermaLink="false">d55f73a9-7bb3-47d0-90f1-b10f87409271</guid>
+            <pubDate>Mon, 25 Jan 2016 04:56:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Horse Camp]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/ranch-camp/index.html</link>
             <guid isPermaLink="false">3f559404-56ff-4248-961c-475a5f11834f</guid>
             <pubDate>Mon, 25 Jan 2016 04:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explore]]></title>
-            <description><![CDATA[<article><h1>Explore</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ef11f58176f5c63f060615f106c4c936e6ce7a81.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/explore/index.html</link>
-            <guid isPermaLink="false">0af68cf4-643f-45ac-8a09-650e6d825869</guid>
-            <pubDate>Mon, 25 Jan 2016 04:51:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
