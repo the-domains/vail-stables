@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 04:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 04:53:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vail]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vail-stables/just-the-faqs-mam/index.html</link>
             <guid isPermaLink="false">8bdff0cc-f688-4d0b-98e6-00c849ddacd8</guid>
             <pubDate>Mon, 25 Jan 2016 04:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Learn]]></title>
+            <description><![CDATA[<article><h1>Learn</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/466a276c0a796edcd720ef3b3cf3fb13afe026c6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/learn/index.html</link>
+            <guid isPermaLink="false">f5d10293-0606-4faa-bb98-a8f17bae0704</guid>
+            <pubDate>Mon, 25 Jan 2016 04:53:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Horses]]></title>
