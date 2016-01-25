@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 04:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 04:54:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vail]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vail-stables/just-the-faqs-mam/index.html</link>
             <guid isPermaLink="false">8bdff0cc-f688-4d0b-98e6-00c849ddacd8</guid>
             <pubDate>Mon, 25 Jan 2016 04:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pony Rides]]></title>
+            <description><![CDATA[<article><h1>Pony Rides</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c02a9da13113af28174b6aea47fed8cdabbae039.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
+            <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
+            <pubDate>Mon, 25 Jan 2016 04:53:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pony Camp]]></title>
