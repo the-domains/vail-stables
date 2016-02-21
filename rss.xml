@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Vail Stables]]></title>
-        <description><![CDATA[Vail Stables]]></description>
+        <title><![CDATA[(855) Ride-Vail]]></title>
+        <description><![CDATA[(855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 19:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 20:04:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Riding]]></title>
@@ -50,10 +50,16 @@
         </item>
         <item>
             <title><![CDATA[Just the FAQs M'am]]></title>
-            <description><![CDATA[<article><h1>Just the FAQs M'am</h1><p>City Slicker Questions, and Cowboy Answers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cd2f95cfe3054a872a8c16694568ef9d9cb618e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Just the FAQs M'am</h1><p>City Slicker Questions, and Cowboy Answers</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d65f8b0a76802017baa773b0888a1077a89dc303.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/just-the-faqs-mam/index.html</link>
             <guid isPermaLink="false">8bdff0cc-f688-4d0b-98e6-00c849ddacd8</guid>
             <pubDate>Sun, 21 Feb 2016 19:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/vail-stables/421c1281-cb53-4642-9e10-18c3753c50fc/index.html</link>
+            <guid isPermaLink="false">421c1281-cb53-4642-9e10-18c3753c50fc</guid>
+            <pubDate>Sun, 21 Feb 2016 20:03:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Parent-Led Pony Rides]]></title>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/vail-stables/horses/index.html</link>
             <guid isPermaLink="false">0f42bc7f-c2f6-4988-afb0-a23a4d8086e5</guid>
             <pubDate>Sun, 21 Feb 2016 19:43:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fall Color Rides]]></title>
-            <description><![CDATA[<article><h1>Fall Color Rides</h1><p>The most wonderful time of the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc173cde9f6ecd29f49347c20882cf5a380dc079.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/fall-color-rides/index.html</link>
-            <guid isPermaLink="false">35ae9b8a-fe0a-4326-81ad-ce555c687786</guid>
-            <pubDate>Sun, 21 Feb 2016 19:42:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
