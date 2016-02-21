@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Bits and pieces of information, you might find helpful.'
-datePublished: '2016-02-21T22:44:55.796Z'
-dateModified: '2016-02-21T22:44:39.193Z'
+datePublished: '2016-02-21T22:53:37.145Z'
+dateModified: '2016-02-21T22:44:58.871Z'
 title: "Just the FAQs M'am"
 author: []
 sourcePath: _posts/2016-01-25-just-the-faqs-mam.md
@@ -49,8 +49,7 @@ Height/Weight Proportion Requirement. We hate to say it, but if your legs are no
 
 ###### **Age Limit**
 
-Kids must be a very mature 5 years old, (like 15 yr-olds are), to ride.  They ride their own horse, however, the guide leads the horse of 5 and 6 yr olds from the top of their horse, not on foot!  Seven year-olds can control the reins by themselves, as long as they are doing well. Kids have to be 5 years old to ride. Not 4 and 3/4, or 4 yrs and 11 months, remember, they have to be very, very mature, like a 16 yr-old. This is an insurance requirement!  If you plan on fibbing about your child's age, causing your child and their siblings to also fib, (you should see the kids stammer as they attempt to maintain the parents' lies) the insurance company will inform you that YOU can cover the cost of any unforseen incident that could happen at the ranch.  We will say the same thing. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e9b82bf8dc6eb618a6eb5816d86f2ee/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7cddb6bc-88c9-4ede-b656-2c2a84b67c3b.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b274c9a7bde016800e020dfd62e87bf2/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Faaebfd4d-e0ff-4e2c-a5e6-ae323c896228.jpg)
+Kids must be a very mature 5 years old, (like 15 yr-olds are), to ride.  They ride their own horse, however, the guide leads the horse of 5 and 6 yr olds from the top of their horse, not on foot!  Seven year-olds can control the reins by themselves, as long as they are doing well. Kids have to be 5 years old to ride. Not 4 and 3/4, or 4 yrs and 11 months, remember, they have to be very, very mature, like a 16 yr-old. This is an insurance requirement!  If you plan on fibbing about your child's age, causing your child and their siblings to also fib, (you should see the kids stammer as they attempt to maintain the parents' lies) the insurance company will inform you that YOU can cover the cost of any unforseen incident that could happen at the ranch.  We will say the same thing. 
 
 Camps - No Cancellations, no makeup days, no sick days, no switching days, NO EXCEPTIONS, ever.  Any attempt to cancel camp days you have booked will be completely, and pitifully ignored.  There just aren't any exceptions.  Not a one.  If you know this ahead of time, maybe we won't seem like jerks when we uphold the policy.  And, you wouldn't want to miss out on the greatest adventure Colorado has to offer the flatlander kiddo.
 
