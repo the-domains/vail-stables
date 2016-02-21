@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: for kids 6-12
-datePublished: '2016-02-21T18:47:56.562Z'
-dateModified: '2016-02-21T18:47:16.207Z'
+datePublished: '2016-02-21T19:42:57.026Z'
+dateModified: '2016-02-21T19:02:40.654Z'
 title: Horse Camp
 author: []
 sourcePath: _posts/2016-02-21-horse-camp.md
@@ -22,7 +22,7 @@ url: horse-camp/index.html
 _type: Article
 
 ---
-Summer Horse Camp
+Learn to care for and ride horses.
 
 for kids 6-12
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cca03816-e4c9-463c-883b-e3ee479812fe.jpg)
