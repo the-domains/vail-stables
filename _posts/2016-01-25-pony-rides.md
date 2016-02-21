@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Parent-Led '
-datePublished: '2016-02-21T22:54:13.748Z'
-dateModified: '2016-02-21T22:34:19.220Z'
+datePublished: '2016-02-21T23:42:08.559Z'
+dateModified: '2016-02-21T23:42:06.744Z'
 title: Parent-Led Pony Rides
 author: []
 sourcePath: _posts/2016-01-25-pony-rides.md
@@ -25,7 +25,7 @@ _type: Article
 Sweet ponies for the tiniest Lil' Buckaroos.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a550255-06a2-4900-a9e8-2b79ade13dd6.jpg)
 
-Sweet ponies for moms and dads to lead on the trails around the ranch.
+Moms and dads lead the ponies with their kiddos atop, along the trails around the ranch.
 
 Parent-Led Pony Rides    Everyday between 10am and 1pm.  $20/20 minutes on our scenic trails.  Walk-up, no reservations taken, first come, first served.  2 ponies ready to go at 10am.  Kids as young as 1 yr old can ride!  We have tiny helmets.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65dc3c3c-4d4f-40e2-929a-77ce5c5a4368.jpg)
