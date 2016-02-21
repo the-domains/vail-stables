@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Bits and pieces of information, you might find helpful.'
-datePublished: '2016-02-21T19:53:52.472Z'
-dateModified: '2016-02-21T19:53:50.082Z'
+datePublished: '2016-02-21T20:07:40.484Z'
+dateModified: '2016-02-21T19:58:41.374Z'
 title: "Just the FAQs M'am"
 author: []
 sourcePath: _posts/2016-01-25-just-the-faqs-mam.md
@@ -25,21 +25,31 @@ _type: Article
 City Slicker Questions, and Cowboy Answers
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f19f251-c61f-4652-acb4-a6216f4c3ede.jpg)
 
-###### **How late in the season are you open?**
+###### ****
 
-###### **Typically, the final Sunday in September is our last day.  A blizzard is coming.   If it doesn't show, we might, might extend into October a little bit for larger parties willing to pay in advance.  **
+###### ****
 
-###### **Paying Separately**
+###### 
+
+###### 
+
+###### 
+
+How Late in the season are you open?
+
+Typically, the final Sunday in September is our last day.  A blizzard is coming.  If said blizzard doesn't show, we might extend into October a little bit for large parties that are willing to pay in advance.
+
+Paying Separately
 
 The credit card you use to hold your reservation is NOT CHARGED at the time of booking.  It is authorized for $1 and subsequently voided to assure the booking system that the card is a valid card.  You may pay with cash, multiple credit cards or by doing a lot of chores once you arrive. 
 
-###### **If you show up with cash you receive $5 off each rider. **
+###### If you show up with cash you receive $5 off each rider. 
 
 Hopefully you have good friends (and you know how family can be), that won't bail at the last minute, causing your card to be charged for no-shows or last minute cancellations by the people you love, or don't, in your group. 
 
 **_See Rain or Shine, and Cancellations below._**
 
-###### **Weight Limit**
+###### Weight Limit
 
 Height/Weight Proportion Requirement. We hate to say it, but if your legs are not strong enough to hold your 50 gallon beer belly on the upper side of the saddle, there could be a problem.  If a rider is under 6' tall, the rider must not weigh more than 245\. If the rider is 6' or taller, the weight limit is 275\. If the rider is over 6'6", the weight limit is 300lbs.  We beg and plead with you now, please don't make us put you on the scale!!!  
 
