@@ -4,7 +4,7 @@
         <description><![CDATA[(855) Ride-Vail  ......or......   (970) 476-6941 ]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 23:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 23:42:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/vail-stables/ride/index.html</link>
             <guid isPermaLink="false">8a220693-28c4-4873-aebd-b50fbfef2fa9</guid>
             <pubDate>Sun, 21 Feb 2016 22:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vail Stables]]></title>
+            <description><![CDATA[<article><h1>Vail Stables</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0584fe7-ca92-475c-bfce-9d81345aeba2.png"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
+            <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
+            <pubDate>Sun, 21 Feb 2016 23:38:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/horse-camp/index.html</link>
             <guid isPermaLink="false">e91f4aca-ab81-44d3-b284-4d0aecba87c7</guid>
             <pubDate>Sun, 21 Feb 2016 19:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Your happiness is our mission.]]></title>
-            <description><![CDATA[<article><h1>Your happiness is our mission.</h1><p>We are here for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22208b7d90dac65fb66ff235888af9bac1221b13.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/vail/index.html</link>
-            <guid isPermaLink="false">23101935-c973-43e3-b407-2be0dcaf140a</guid>
-            <pubDate>Sun, 21 Feb 2016 22:54:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
