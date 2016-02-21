@@ -24,6 +24,6 @@ color:
     - '#dd832e'
   brandStrength: 0.25
   lightness: 0.5
-  saturation: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
