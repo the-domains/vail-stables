@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Bits and pieces of information, you might find helpful.'
-datePublished: '2016-02-21T19:43:23.885Z'
-dateModified: '2016-02-21T19:07:04.241Z'
+datePublished: '2016-02-21T19:52:52.778Z'
+dateModified: '2016-02-21T19:52:33.181Z'
 title: "Just the FAQs M'am"
 author: []
 sourcePath: _posts/2016-01-25-just-the-faqs-mam.md
@@ -25,19 +25,21 @@ _type: Article
 City Slicker Questions, and Cowboy Answers
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f19f251-c61f-4652-acb4-a6216f4c3ede.jpg)
 
-###### **How Late in the Season Are You Open? **
+###### 
 
-###### **Sadly, we close October 1st, 2016\.  A blizzard is coming.  However, if it doesn't arrive, there is a slim chance we can extend rides into October.**
+###### **How late in the season are you open?**
+
+###### **Typically, the final Sunday in September is our last day.  A blizzard is coming.   If it doesn't show, we might, might extend into October a little bit for larger parties.  **
 
 ###### **Paying Separately**
 
 The credit card you use to hold your reservation is NOT CHARGED at the time of booking.  It is authorized for $1 and subsequently voided to assure the booking system that the card is a valid card.  You may pay with cash, multiple credit cards or by doing a lot of chores once you arrive. 
 
-**If you show up with cash you receive $5 off each rider. **
+###### **If you show up with cash you receive $5 off each rider. **
 
 Hopefully you have good friends (and you know how family can be), that won't bail at the last minute, causing your card to be charged for no-shows or last minute cancellations by the people you love, or don't, in your group. 
 
-**_See Rain or Shine below and Cancellations below._**
+**_See Rain or Shine, and Cancellations below._**
 
 ###### **Weight Limit**
 
@@ -53,11 +55,7 @@ None of the stables in the Vail Valley allow doubledouble riding.  Having said t
 
 **WARNING!!  Strict Cancellation Policy**
 
-Horseback Rides - Please do not book a ride on your travel day.  Travel dilemmas are not an exception to the cancellation policy.  We hate to be the additional jerk that upholds the policy, on the day you have a travel problem.  A full
-
-24 hours and 5 minutes
-
-notice required to cancel, change, alter, subtract people, change your mind, get sick, stub your toe, eat too much, develop bad gas, find something better to do, double book yourself, have your plane delayed, ect, to avoid a cancellation fee. You are guaranteeing your arrival, and usage of the horse blocked out of the schedule, with your credit card.  Think $$$$ lost when we charge it, or a lot of shoveling.  And, you wouldn't want to miss out on the greatest adventure Colorado has to offer the flatlander.   Locate the change/cancel button at the bottom of your confirmation email to alter or cancel prior to the 24 hour and 5 minute mark.
+Horseback Rides - Please do not book a ride on your travel day.  Travel dilemmas are not an exception to the cancellation policy.  We hate to be the additional jerk that upholds the policy, on the day you have a travel problem.  A full **24 hours and 5** minutes notice required to cancel, change, alter, subtract people, change your mind, get sick, stub your toe, eat too much, develop bad gas, find something better to do, double book yourself, have your plane delayed, ect, to avoid a cancellation fee. You are guaranteeing your arrival, and usage of the horse blocked out of the schedule, with your credit card.  Think $$$$ lost when we charge it, or a lot of shoveling.  And, you wouldn't want to miss out on the greatest adventure Colorado has to offer the flatlander.   Locate the change/cancel button at the bottom of your confirmation email to alter or cancel prior to the 24 hour and 5 minute mark.
 
 Camps - No Cancellations, no makeup days, no sick days, no switching days, NO EXCEPTIONS, ever.  Any attempt to cancel camp days you have booked will be completely, and pitifully ignored.  There just aren't any exceptions.  Not a one.  If you know this ahead of time, maybe we won't seem like jerks when we uphold the policy.  And, you wouldn't want to miss out on the greatest adventure Colorado has to offer the flatlander kiddo.
 
