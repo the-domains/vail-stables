@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Easy Day Work for Real Cowboys
-datePublished: '2016-02-21T19:42:26.978Z'
-dateModified: '2016-02-21T19:00:53.601Z'
+datePublished: '2016-02-21T19:43:17.235Z'
+dateModified: '2016-02-21T19:43:05.592Z'
 title: Employment
 author: []
 sourcePath: _posts/2016-02-21-employment.md
