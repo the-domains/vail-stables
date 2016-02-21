@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Bits and pieces of information, you might find helpful.'
-datePublished: '2016-02-21T19:52:52.778Z'
-dateModified: '2016-02-21T19:52:33.181Z'
+datePublished: '2016-02-21T19:53:52.472Z'
+dateModified: '2016-02-21T19:53:50.082Z'
 title: "Just the FAQs M'am"
 author: []
 sourcePath: _posts/2016-01-25-just-the-faqs-mam.md
@@ -25,11 +25,9 @@ _type: Article
 City Slicker Questions, and Cowboy Answers
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f19f251-c61f-4652-acb4-a6216f4c3ede.jpg)
 
-###### 
-
 ###### **How late in the season are you open?**
 
-###### **Typically, the final Sunday in September is our last day.  A blizzard is coming.   If it doesn't show, we might, might extend into October a little bit for larger parties.  **
+###### **Typically, the final Sunday in September is our last day.  A blizzard is coming.   If it doesn't show, we might, might extend into October a little bit for larger parties willing to pay in advance.  **
 
 ###### **Paying Separately**
 
