@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[(855) Ride-Vail  ......or......   (970) 476-6941 ]]></title>
-        <description><![CDATA[(855) Ride-Vail  ......or......   (970) 476-6941 ]]></description>
+        <title><![CDATA[Vail Stables in Vail, Colorado  (855) Ride-Vail]]></title>
+        <description><![CDATA[Vail Stables in Vail, Colorado  (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 23:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 23:46:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Sun, 21 Feb 2016 22:54:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Parent-Led Pony Rides]]></title>
+            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Sweet ponies for the tiniest Lil' Buckaroos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98b941fa7f2ceb8d2906526f557e1e1ac897d85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
+            <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
+            <pubDate>Sun, 21 Feb 2016 23:42:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Vail Stables]]></title>
-            <description><![CDATA[<article><h1>Vail Stables</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0584fe7-ca92-475c-bfce-9d81345aeba2.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Vail Stables</h1><p>in Vail, Colorado</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54aaa76312272782edffb52b929017e1c6014d81.png"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
             <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
             <pubDate>Sun, 21 Feb 2016 23:38:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/61cc52d6-f6e4-4fb8-9a7b-421e3784761b/index.html</link>
             <guid isPermaLink="false">61cc52d6-f6e4-4fb8-9a7b-421e3784761b</guid>
             <pubDate>Sun, 21 Feb 2016 20:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Horse Camp]]></title>
-            <description><![CDATA[<article><h1>Horse Camp</h1><p>Learn to care for and ride horses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f35d5829644b4ffd9989a60901a9d7933f71fa6c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/horse-camp/index.html</link>
-            <guid isPermaLink="false">e91f4aca-ab81-44d3-b284-4d0aecba87c7</guid>
-            <pubDate>Sun, 21 Feb 2016 19:42:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
