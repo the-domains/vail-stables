@@ -23,7 +23,7 @@ color:
     - '#007bac'
     - '#984f44'
   brandStrength: 0
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 1
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 0
 purpose: []
