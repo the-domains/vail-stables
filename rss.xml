@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 17:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 17:19:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vail]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vail-stables/just-the-faqs-mam/index.html</link>
             <guid isPermaLink="false">8bdff0cc-f688-4d0b-98e6-00c849ddacd8</guid>
             <pubDate>Sun, 21 Feb 2016 16:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Horseback Riding]]></title>
+            <description><![CDATA[<article><h1>Horseback Riding</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d550d580b302f03c49da82e0e95338ec793e85d8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/horseback-riding/index.html</link>
+            <guid isPermaLink="false">e769616d-4eb3-4068-834a-ac75ee721559</guid>
+            <pubDate>Sun, 21 Feb 2016 17:18:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
             <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
             <pubDate>Mon, 25 Jan 2016 04:53:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pony Camp]]></title>
-            <description><![CDATA[<article><h1>Pony Camp</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ecd11f1e3ca8d692693965c96f7fcf2527d8bce.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/pony-camp/index.html</link>
-            <guid isPermaLink="false">8adf524b-8346-4ef7-9849-2e9bb1339622</guid>
-            <pubDate>Mon, 25 Jan 2016 04:53:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
