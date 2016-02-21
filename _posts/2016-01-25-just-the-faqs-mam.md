@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Bits and pieces of information, you might find helpful.'
-datePublished: '2016-02-21T20:07:40.484Z'
-dateModified: '2016-02-21T19:58:41.374Z'
+datePublished: '2016-02-21T22:44:55.796Z'
+dateModified: '2016-02-21T22:44:39.193Z'
 title: "Just the FAQs M'am"
 author: []
 sourcePath: _posts/2016-01-25-just-the-faqs-mam.md
@@ -22,18 +22,12 @@ url: just-the-faqs-mam/index.html
 _type: Article
 
 ---
-City Slicker Questions, and Cowboy Answers
+Cowboy Answers to City Slicker Questions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f19f251-c61f-4652-acb4-a6216f4c3ede.jpg)
 
 ###### ****
 
 ###### ****
-
-###### 
-
-###### 
-
-###### 
 
 How Late in the season are you open?
 
@@ -55,21 +49,15 @@ Height/Weight Proportion Requirement. We hate to say it, but if your legs are no
 
 ###### **Age Limit**
 
-Kids must be a very mature 5 years old, (like 15 yr-olds are), to ride.  They ride their own horse, however, the guide leads the horse of 5 and 6 yr olds from the top of their horse, not on foot!  Seven year-olds can control the reins by themselves, as long as they are doing well. Kids have to be 5 years old to ride. Not 4 and 3/4, or 4 yrs and 11 months, remember, they have to be very, very mature, like a 16 yr-old. This is an insurance requirement!  If you plan on fibbing about your child's age, causing your child and their siblings to also fib, (you should see the kids stammer as they attempt to maintain the parents' lies) the insurance company will inform you that YOU can cover the cost of any unforseen incident that could happen at the ranch.  We will say the same thing. 
-
-###### **NONO DOUBLEDOUBLE RIDINGRIDING**
-
-None of the stables in the Vail Valley allow doubledouble riding.  Having said that, we are the ONLY stable that has supervised childcare for your lil' dogies while you enjoy your ride.  Add on Pony Camp While You Ride for $30/hour, or Cowboy Camp while you ride for $15/hour.  Both options are fun and enjoyable for everyone in your group. 
-
-**WARNING!!  Strict Cancellation Policy**
-
-Horseback Rides - Please do not book a ride on your travel day.  Travel dilemmas are not an exception to the cancellation policy.  We hate to be the additional jerk that upholds the policy, on the day you have a travel problem.  A full **24 hours and 5** minutes notice required to cancel, change, alter, subtract people, change your mind, get sick, stub your toe, eat too much, develop bad gas, find something better to do, double book yourself, have your plane delayed, ect, to avoid a cancellation fee. You are guaranteeing your arrival, and usage of the horse blocked out of the schedule, with your credit card.  Think $$$$ lost when we charge it, or a lot of shoveling.  And, you wouldn't want to miss out on the greatest adventure Colorado has to offer the flatlander.   Locate the change/cancel button at the bottom of your confirmation email to alter or cancel prior to the 24 hour and 5 minute mark.
+Kids must be a very mature 5 years old, (like 15 yr-olds are), to ride.  They ride their own horse, however, the guide leads the horse of 5 and 6 yr olds from the top of their horse, not on foot!  Seven year-olds can control the reins by themselves, as long as they are doing well. Kids have to be 5 years old to ride. Not 4 and 3/4, or 4 yrs and 11 months, remember, they have to be very, very mature, like a 16 yr-old. This is an insurance requirement!  If you plan on fibbing about your child's age, causing your child and their siblings to also fib, (you should see the kids stammer as they attempt to maintain the parents' lies) the insurance company will inform you that YOU can cover the cost of any unforseen incident that could happen at the ranch.  We will say the same thing. ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6e9b82bf8dc6eb618a6eb5816d86f2ee/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7cddb6bc-88c9-4ede-b656-2c2a84b67c3b.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b274c9a7bde016800e020dfd62e87bf2/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Faaebfd4d-e0ff-4e2c-a5e6-ae323c896228.jpg)
 
 Camps - No Cancellations, no makeup days, no sick days, no switching days, NO EXCEPTIONS, ever.  Any attempt to cancel camp days you have booked will be completely, and pitifully ignored.  There just aren't any exceptions.  Not a one.  If you know this ahead of time, maybe we won't seem like jerks when we uphold the policy.  And, you wouldn't want to miss out on the greatest adventure Colorado has to offer the flatlander kiddo.
 
-###### **What to Wear**
+What should we wear?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaebfd4d-e0ff-4e2c-a5e6-ae323c896228.jpg)
 
-Don't ask Trevor. His answer is always "clothes". Folks, we have seen everything from mini skirts and high heels, to parkas and leather pants, and the horses didn't seem to mind! We recommend; a fleece jacket, long pants (because chapped thighs are worse than chapped lips), t-shirt and sturdy shoes and a hat. We do provide slickers and helmets FREE of charge. And we recommend that everyone wear a helmet. They don't call them the Rocky Mountains because they are giant sand hills.  Parents, it is up to you if your 14-17 yr old wears a helmet or not.  If you can't bring yourself to argue with your teenager, just wink at the person behind the counter, repeatedly, until they figure out the code for "Be the bad guy for me".   We will force on on their head.   Note the sturdy shoes to the right? 
+Don't ask Trevor. His answer is always "clothes". Folks, we have seen everything from mini skirts and high heels, to parkas and leather pants, and the horses didn't seem to mind! We recommend; a fleece jacket, long pants (because chapped thighs are worse than chapped lips), t-shirt and sturdy shoes and a hat. We do provide slickers and helmets FREE of charge. And we recommend that everyone wear a helmet. They don't call them the Rocky Mountains because they are giant sand hills.  Parents, it is up to you if your 14-17 yr old wears a helmet or not.  If you can't bring yourself to argue with your teenager, just wink at the person behind the counter, repeatedly, until they figure out the code for "Be the bad guy for me".   We will force on on their head.   Note the sturdy shoes to the right?
 
 ###### **What to Bring**
 
