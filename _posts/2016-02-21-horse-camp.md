@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: for kids 6-12
-datePublished: '2016-02-21T19:42:57.026Z'
-dateModified: '2016-02-21T19:02:40.654Z'
+datePublished: '2016-02-22T02:02:42.808Z'
+dateModified: '2016-02-22T01:29:32.464Z'
 title: Horse Camp
 author: []
 sourcePath: _posts/2016-02-21-horse-camp.md
@@ -22,10 +22,11 @@ url: horse-camp/index.html
 _type: Article
 
 ---
-Learn to care for and ride horses.
-
-for kids 6-12
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cca03816-e4c9-463c-883b-e3ee479812fe.jpg)
+
+# Horse Camp
+
+Kids 6-12 learn to care for and ride horses.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b680f503-3f6f-49b8-9378-cb3d1549ec98.jpg)
 
 Horses create chores all day long!
