@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 03:35:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
@@ -49,8 +49,15 @@
             <pubDate>Mon, 22 Feb 2016 02:23:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p> Vail, Colorado</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b030f24f9e944a196e2dbf544ac703144e9654a.png"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
+            <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
+            <pubDate>Mon, 22 Feb 2016 03:32:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Parent-Led Pony Rides]]></title>
-            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Parent-Led Pony Rides    Everyday between 10am and 1pm.  $20/20 minutes on our scenic trails.  Walk-up, no reservations taken, first come, first served.  2 ponies ready to go at 10am.  Kids as young as 1 yr old can ride!  We have tiny helmets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98b941fa7f2ceb8d2906526f557e1e1ac897d85.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Parent-Led Pony Rides    Everyday between 10am and 1pm.  $20/20 minutes on our scenic trails.  Walk-up, no reservations taken, first come, first served.  2 ponies ready to go at 10am.  Kids as young as 1 yr old can ride!  We have tiny helmets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fffb30442e7327f222b1be9c6f469bb8d7165f2.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
             <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
             <pubDate>Mon, 22 Feb 2016 02:28:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/pony-camp/index.html</link>
             <guid isPermaLink="false">7a28407b-69f9-4b77-b9ad-d96bcf79e6d2</guid>
             <pubDate>Mon, 22 Feb 2016 02:21:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USFS]]></title>
-            <description><![CDATA[<article><h1>USFS</h1><p>Vail Stables is an equal opportunity provider operating under Special Use Permit by the White River National Forest.  </p></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/421c1281-cb53-4642-9e10-18c3753c50fc/index.html</link>
-            <guid isPermaLink="false">421c1281-cb53-4642-9e10-18c3753c50fc</guid>
-            <pubDate>Mon, 22 Feb 2016 02:21:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
