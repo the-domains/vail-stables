@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T01:59:22.336Z'
-dateModified: '2016-02-22T01:14:16.589Z'
+datePublished: '2016-02-22T02:03:13.220Z'
+dateModified: '2016-02-22T02:02:57.222Z'
 title: Vail Stables
 author: []
 sourcePath: _posts/2016-02-21-vail-stables.md
