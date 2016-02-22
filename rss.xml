@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:13:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vibrant Summer Riding]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 22 Feb 2016 02:00:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pony Camp]]></title>
+            <description><![CDATA[<article><h1>Pony Camp</h1><p>1/2 day camp - for kids 3-6</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fad96b0972075d3e0f7b27ab8b6c0262937321e0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/pony-camp/index.html</link>
+            <guid isPermaLink="false">7a28407b-69f9-4b77-b9ad-d96bcf79e6d2</guid>
+            <pubDate>Mon, 22 Feb 2016 02:02:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fall Color Rides]]></title>
-            <description><![CDATA[<article><h1>Fall Color Rides</h1><p>The most wonderful time of the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17219ec3dcc6f5b58ab74617985cd1f94eeed8dc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Fall Color Rides</h1><p>The most wonderful time of the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba8fc0029e161aa1890894fbeddf47db966d6612.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/fall-color-rides/index.html</link>
             <guid isPermaLink="false">35ae9b8a-fe0a-4326-81ad-ce555c687786</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:51 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/421c1281-cb53-4642-9e10-18c3753c50fc/index.html</link>
             <guid isPermaLink="false">421c1281-cb53-4642-9e10-18c3753c50fc</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Horse Bios]]></title>
-            <description><![CDATA[<article><h1>Horse Bios</h1><p>Name, Age, Height and Weight</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/013fa8389782802ac39fb390a91d73ead7e450b3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/horses/index.html</link>
-            <guid isPermaLink="false">0f42bc7f-c2f6-4988-afb0-a23a4d8086e5</guid>
-            <pubDate>Sun, 21 Feb 2016 21:28:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
