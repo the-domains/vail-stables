@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T00:08:16.142Z'
-dateModified: '2016-02-22T00:08:10.595Z'
+datePublished: '2016-02-22T01:59:30.263Z'
+dateModified: '2016-02-22T01:15:15.630Z'
 title: Vibrant Wildflowers
 author: []
 sourcePath: _posts/2016-02-22-vibrant-wildflowers.md
