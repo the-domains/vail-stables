@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: Easy Day Work for Real Cowboys
-datePublished: '2016-02-21T21:28:55.060Z'
-dateModified: '2016-02-21T21:19:29.873Z'
-title: Employment
+datePublished: '2016-02-22T02:02:49.383Z'
+dateModified: '2016-02-22T01:30:28.149Z'
+title: Summer Job Opportunities
 author: []
 sourcePath: _posts/2016-02-21-employment.md
 published: true
@@ -22,8 +22,9 @@ url: employment/index.html
 _type: Article
 
 ---
-Summer Job Opportunities
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0a86f60-aca8-48e0-982b-f363081a07ab.jpg)
+
+# Summer Job Opportunities
 
 A place to call your "home away from home" during the summer months.  Jobs typically last June 1st to August 21st.  Some guides work through September.  
 
