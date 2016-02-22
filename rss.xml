@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:22:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Summer Job Opportunities]]></title>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/vail-stables/52b3a2fa-2753-456f-98bf-723ba912f086/index.html</link>
             <guid isPermaLink="false">52b3a2fa-2753-456f-98bf-723ba912f086</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Horse Bios]]></title>
+            <description><![CDATA[<article><h1>Horse Bios</h1><p>We get by with a little help from our friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53510e5e8d88917e5cd30c60b56d427b7c6b4720.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/horses/index.html</link>
+            <guid isPermaLink="false">0f42bc7f-c2f6-4988-afb0-a23a4d8086e5</guid>
+            <pubDate>Mon, 22 Feb 2016 02:03:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vail Stables]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/fall-color-rides/index.html</link>
             <guid isPermaLink="false">35ae9b8a-fe0a-4326-81ad-ce555c687786</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bear Hollow Tour]]></title>
-            <description><![CDATA[<article><h1>Bear Hollow Tour</h1><p>Times Vary - Click the Check Availability Button to see what rides are availailable on your special date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b27e93d7adb80932003bf1e2647fdf63fedbeef.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/7e091437-f781-4d28-8196-fa5484087235/index.html</link>
-            <guid isPermaLink="false">7e091437-f781-4d28-8196-fa5484087235</guid>
-            <pubDate>Mon, 22 Feb 2016 02:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
