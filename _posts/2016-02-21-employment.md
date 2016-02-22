@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Easy Day Work for Real Cowboys
-datePublished: '2016-02-22T02:02:49.383Z'
-dateModified: '2016-02-22T01:30:28.149Z'
+datePublished: '2016-02-22T02:06:50.033Z'
+dateModified: '2016-02-22T02:06:48.638Z'
 title: Summer Job Opportunities
 author: []
 sourcePath: _posts/2016-02-21-employment.md
@@ -30,6 +30,6 @@ A place to call your "home away from home" during the summer months.  Jobs typic
 
 Simply fill out the questionnaire and we will set up a time to meet.
 
-[https://vailstables.wufoo.com/forms/q14bda7c10are56/][0]
+[Click Here for the Questionnaire][0]
 
 [0]: https://vailstables.wufoo.com/forms/q14bda7c10are56/
