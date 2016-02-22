@@ -4,11 +4,11 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:50:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
-            <description><![CDATA[<article><h1>Guided Horseback Rides</h1><p>Gorgeous Scenic Rides for Everyone 5 and Older</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d9583f8ce53cb6fe942a855101dbb4c1a545b2e2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Guided Horseback Rides</h1><p>Gorgeous Scenic Rides for Everyone 5 and Older</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99da320e319a3b0cea8d4d4ffa18d432838b79b1.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/ride/index.html</link>
             <guid isPermaLink="false">8a220693-28c4-4873-aebd-b50fbfef2fa9</guid>
             <pubDate>Mon, 22 Feb 2016 02:25:31 GMT</pubDate>
@@ -49,6 +49,13 @@
             <pubDate>Mon, 22 Feb 2016 02:23:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Parent-Led Pony Rides]]></title>
+            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Parent-Led Pony Rides    Everyday between 10am and 1pm.  $20/20 minutes on our scenic trails.  Walk-up, no reservations taken, first come, first served.  2 ponies ready to go at 10am.  Kids as young as 1 yr old can ride!  We have tiny helmets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98b941fa7f2ceb8d2906526f557e1e1ac897d85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
+            <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
+            <pubDate>Mon, 22 Feb 2016 02:28:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bear Hollow Tour]]></title>
             <description><![CDATA[<article><h1>Bear Hollow Tour</h1><p>Times Vary - Click the Check Availability Button to see what rides are availailable on your special date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b27e93d7adb80932003bf1e2647fdf63fedbeef.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/7e091437-f781-4d28-8196-fa5484087235/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/421c1281-cb53-4642-9e10-18c3753c50fc/index.html</link>
             <guid isPermaLink="false">421c1281-cb53-4642-9e10-18c3753c50fc</guid>
             <pubDate>Mon, 22 Feb 2016 02:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark Timber Tour]]></title>
-            <description><![CDATA[<article><h1>Dark Timber Tour</h1><h2>$115 adult-only  upgrade during checkout process</h2><p>2 Hour Ride</p></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/dark-timber-tour/index.html</link>
-            <guid isPermaLink="false">d03a6b27-0aeb-4bb8-b45e-f932189d4801</guid>
-            <pubDate>Mon, 22 Feb 2016 02:20:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
