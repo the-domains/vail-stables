@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T03:32:44.303Z'
-dateModified: '2016-02-22T03:32:41.701Z'
+datePublished: '2016-02-22T03:42:28.681Z'
+dateModified: '2016-02-22T03:42:11.688Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-02-21-vail-stables.md
