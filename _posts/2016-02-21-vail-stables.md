@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T02:03:13.220Z'
-dateModified: '2016-02-22T02:02:57.222Z'
-title: Vail Stables
+datePublished: '2016-02-22T03:32:44.303Z'
+dateModified: '2016-02-22T03:32:41.701Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-02-21-vail-stables.md
 published: true
@@ -22,7 +22,7 @@ url: vail-stables/index.html
 _type: Article
 
 ---
-# Vail Stables
+# 
 
-in Vail, Colorado
+Vail, Colorado
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fda71fea-ad79-45c8-9e51-2bacfbd5f0cf.png)
