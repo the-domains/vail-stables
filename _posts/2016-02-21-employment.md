@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Easy Day Work for Real Cowboys
-datePublished: '2016-02-22T03:34:17.410Z'
-dateModified: '2016-02-22T03:34:14.204Z'
+datePublished: '2016-02-22T03:42:54.399Z'
+dateModified: '2016-02-22T03:41:38.397Z'
 title: Summer Job Opportunities
 author: []
 sourcePath: _posts/2016-02-21-employment.md
