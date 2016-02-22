@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:21:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Summer Job Opportunities]]></title>
@@ -35,8 +35,15 @@
             <pubDate>Mon, 22 Feb 2016 02:00:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Vail Stables]]></title>
+            <description><![CDATA[<article><h1>Vail Stables</h1><p>in Vail, Colorado</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b030f24f9e944a196e2dbf544ac703144e9654a.png"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
+            <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
+            <pubDate>Mon, 22 Feb 2016 02:03:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Just the FAQs, M'am]]></title>
-            <description><![CDATA[<article><h1>Just the FAQs, M'am</h1><p>How Late in the season are you open?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cd2f95cfe3054a872a8c16694568ef9d9cb618e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Just the FAQs, M'am</h1><p>How Late in the season are you open?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d65f8b0a76802017baa773b0888a1077a89dc303.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/just-the-faqs-mam/index.html</link>
             <guid isPermaLink="false">8bdff0cc-f688-4d0b-98e6-00c849ddacd8</guid>
             <pubDate>Mon, 22 Feb 2016 02:03:06 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/7e091437-f781-4d28-8196-fa5484087235/index.html</link>
             <guid isPermaLink="false">7e091437-f781-4d28-8196-fa5484087235</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adventure Riding]]></title>
-            <description><![CDATA[<article><h1>Adventure Riding</h1><p>Private tours available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8185a853621304cbdbba43d7e788596ddc96b89.jpg"></article>]]></description>
-            <link>http://www.vailstables.com/</link>
-            <guid isPermaLink="false">9f6c3b97-bb3f-457b-bc54-c8c9891f9e65</guid>
-            <pubDate>Mon, 22 Feb 2016 02:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
