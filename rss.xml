@@ -4,8 +4,15 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 03:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 03:52:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p> Vail, Colorado</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b030f24f9e944a196e2dbf544ac703144e9654a.png"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
+            <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
+            <pubDate>Mon, 22 Feb 2016 03:42:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
             <description><![CDATA[<article><h1>Guided Horseback Rides</h1><p>Gorgeous Scenic Rides for Everyone 5 and Older</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99da320e319a3b0cea8d4d4ffa18d432838b79b1.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Your Happiness is our mission.]]></title>
-            <description><![CDATA[<article><h1>Your Happiness is our mission.</h1><p>We are here for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7446002f866cedf0d4e3cc79a5883b89322c9d7.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Your Happiness is our mission.</h1><p>We are here for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b5269e984d3beff53fdbbd91d9f37ed1dca128d.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/vail/index.html</link>
             <guid isPermaLink="false">23101935-c973-43e3-b407-2be0dcaf140a</guid>
             <pubDate>Mon, 22 Feb 2016 03:43:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/720f7a5e-a87c-48f2-a177-a26bd6439793/index.html</link>
             <guid isPermaLink="false">720f7a5e-a87c-48f2-a177-a26bd6439793</guid>
             <pubDate>Mon, 22 Feb 2016 03:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dark Timber Tour]]></title>
-            <description><![CDATA[<article><h1>Dark Timber Tour</h1><h2>$115 adult-only  upgrade during checkout process</h2><p>2 Hour Ride</p></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/dark-timber-tour/index.html</link>
-            <guid isPermaLink="false">d03a6b27-0aeb-4bb8-b45e-f932189d4801</guid>
-            <pubDate>Mon, 22 Feb 2016 03:35:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
