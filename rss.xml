@@ -4,8 +4,15 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:24:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your Happiness is our mission.]]></title>
+            <description><![CDATA[<article><h1>Your Happiness is our mission.</h1><p>We are here for you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22208b7d90dac65fb66ff235888af9bac1221b13.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/vail/index.html</link>
+            <guid isPermaLink="false">23101935-c973-43e3-b407-2be0dcaf140a</guid>
+            <pubDate>Mon, 22 Feb 2016 02:03:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Summer Job Opportunities]]></title>
             <description><![CDATA[<article><h1>Summer Job Opportunities</h1><p>Simply fill out the questionnaire and we will set up a time to meet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ba75aeb4fc9f669cc59d985e7affc4c56ead2f6.jpg"></article>]]></description>
@@ -29,14 +36,14 @@
         </item>
         <item>
             <title><![CDATA[Location, Location, Location]]></title>
-            <description><![CDATA[<article><h1>Location, Location, Location</h1><p>Vail Village and Lionshead are on the south side of I-17.  We are on the north side, about 4 miles to the east of Safeway.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7d31c6fb3d3e83b63c1000f9e36e7265160e499.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Location, Location, Location</h1><p>Vail Village and Lionshead are on the south side of I-17.  We are on the north side, about 4 miles to the east of Safeway.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d560372faec4a1d11228c93845d7a72f8b0feb0c.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/52b3a2fa-2753-456f-98bf-723ba912f086/index.html</link>
             <guid isPermaLink="false">52b3a2fa-2753-456f-98bf-723ba912f086</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Horse Bios]]></title>
-            <description><![CDATA[<article><h1>Horse Bios</h1><p>We get by with a little help from our friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53510e5e8d88917e5cd30c60b56d427b7c6b4720.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Horse Bios</h1><p>We get by with a little help from our friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32f677ea1b91150e2a68b299d2cb3ca6eb97958c.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/horses/index.html</link>
             <guid isPermaLink="false">0f42bc7f-c2f6-4988-afb0-a23a4d8086e5</guid>
             <pubDate>Mon, 22 Feb 2016 02:03:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/pony-camp/index.html</link>
             <guid isPermaLink="false">7a28407b-69f9-4b77-b9ad-d96bcf79e6d2</guid>
             <pubDate>Mon, 22 Feb 2016 02:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fall Color Rides]]></title>
-            <description><![CDATA[<article><h1>Fall Color Rides</h1><p>The most wonderful time of the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba8fc0029e161aa1890894fbeddf47db966d6612.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/fall-color-rides/index.html</link>
-            <guid isPermaLink="false">35ae9b8a-fe0a-4326-81ad-ce555c687786</guid>
-            <pubDate>Mon, 22 Feb 2016 02:00:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
