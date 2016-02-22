@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 03:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 03:35:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Mon, 22 Feb 2016 02:23:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Easy Online Booking]]></title>
+            <description><![CDATA[<article><h1>Easy Online Booking</h1><p>www.bookeo.com/vailstables</p></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/800892b2-0c35-4d58-adb2-b751a6b2f09f/index.html</link>
+            <guid isPermaLink="false">800892b2-0c35-4d58-adb2-b751a6b2f09f</guid>
+            <pubDate>Mon, 22 Feb 2016 03:33:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<article><h1></h1><p> Vail, Colorado</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b030f24f9e944a196e2dbf544ac703144e9654a.png"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/7e091437-f781-4d28-8196-fa5484087235/index.html</link>
             <guid isPermaLink="false">7e091437-f781-4d28-8196-fa5484087235</guid>
             <pubDate>Mon, 22 Feb 2016 02:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pony Camp]]></title>
-            <description><![CDATA[<article><h1>Pony Camp</h1><p>1/2 day camp - for kids 3-6</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89bf39078e5a984560692658c508f3e75c9b72d7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/pony-camp/index.html</link>
-            <guid isPermaLink="false">7a28407b-69f9-4b77-b9ad-d96bcf79e6d2</guid>
-            <pubDate>Mon, 22 Feb 2016 02:21:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
