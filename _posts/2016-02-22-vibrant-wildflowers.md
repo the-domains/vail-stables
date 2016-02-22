@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T01:59:30.263Z'
-dateModified: '2016-02-22T01:15:15.630Z'
+datePublished: '2016-02-22T17:11:17.830Z'
+dateModified: '2016-02-22T17:11:17.550Z'
 title: Vibrant Wildflowers
 author: []
 sourcePath: _posts/2016-02-22-vibrant-wildflowers.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: vibrant-wildflowers/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Vibrant Wildflowers
