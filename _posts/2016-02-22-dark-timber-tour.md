@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T02:20:26.489Z'
-dateModified: '2016-02-22T02:20:20.846Z'
+datePublished: '2016-02-22T03:35:24.120Z'
+dateModified: '2016-02-22T03:35:21.672Z'
 title: Dark Timber Tour
 author: []
+sourcePath: _posts/2016-02-22-dark-timber-tour.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-dark-timber-tour.md
-published: true
 url: dark-timber-tour/index.html
 _type: Article
 
