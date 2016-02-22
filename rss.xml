@@ -4,8 +4,15 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:15:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Horse Camp]]></title>
+            <description><![CDATA[<article><h1>Horse Camp</h1><p>Kids 6-12 learn to care for and ride horses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f35d5829644b4ffd9989a60901a9d7933f71fa6c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/horse-camp/index.html</link>
+            <guid isPermaLink="false">e91f4aca-ab81-44d3-b284-4d0aecba87c7</guid>
+            <pubDate>Mon, 22 Feb 2016 02:02:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vibrant Summer Riding]]></title>
             <description><![CDATA[<article><h1>Vibrant Summer Riding</h1><p>The bluest blues, the greenest greens, the brightest whites.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0411ac02fbde1cc33f1f63e3ea396452095df84c.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Cowboy Camp]]></title>
-            <description><![CDATA[<article><h1>Cowboy Camp</h1><p>Gearing up for a pony ride.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/082a41b077f905a369fb6dc5c125d7c70fe2f760.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cowboy Camp</h1><p>Gearing up for a pony ride.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b208698ae8269b7eb6931478df9b335272c9732b.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/61cc52d6-f6e4-4fb8-9a7b-421e3784761b/index.html</link>
             <guid isPermaLink="false">61cc52d6-f6e4-4fb8-9a7b-421e3784761b</guid>
             <pubDate>Mon, 22 Feb 2016 02:02:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/8f6ade46-317f-4317-93dd-713a5c2852f3/index.html</link>
             <guid isPermaLink="false">8f6ade46-317f-4317-93dd-713a5c2852f3</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Easy Online Booking]]></title>
-            <description><![CDATA[<article><h1>Easy Online Booking</h1><p>www.bookeo.com/vailstables</p></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/800892b2-0c35-4d58-adb2-b751a6b2f09f/index.html</link>
-            <guid isPermaLink="false">800892b2-0c35-4d58-adb2-b751a6b2f09f</guid>
-            <pubDate>Mon, 22 Feb 2016 02:00:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
