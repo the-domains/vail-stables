@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 03:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 03:40:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Mon, 22 Feb 2016 02:23:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Parent-Led Pony Rides]]></title>
+            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Sweet ponies for the tiniest Lil' Buckaroos.  Moms and dads lead the ponies with their kiddos atop, along the trails around the ranch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98b941fa7f2ceb8d2906526f557e1e1ac897d85.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
+            <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
+            <pubDate>Mon, 22 Feb 2016 03:37:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Meet Meno at Vail Stables ]]></title>
             <description><![CDATA[<article><h1>Meet Meno at Vail Stables </h1><h2>This is not a one trick pony. </h2><p>In fact, he has three tricks!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ed35487ba90dd5bfcea6012b6cacfa85654ff09.png"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/720f7a5e-a87c-48f2-a177-a26bd6439793/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/800892b2-0c35-4d58-adb2-b751a6b2f09f/index.html</link>
             <guid isPermaLink="false">800892b2-0c35-4d58-adb2-b751a6b2f09f</guid>
             <pubDate>Mon, 22 Feb 2016 03:33:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1></h1><p> Vail, Colorado</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b030f24f9e944a196e2dbf544ac703144e9654a.png"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
-            <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
-            <pubDate>Mon, 22 Feb 2016 03:32:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
