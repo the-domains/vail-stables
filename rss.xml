@@ -4,8 +4,15 @@
         <description><![CDATA[Vail Stables in Vail, Colorado  (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 23:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 00:01:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/369f9d80-ec95-41f9-b403-46e3f079e4a1.jpg">]]></description>
+            <link>https://thegrid.ai/vail-stables/52b3a2fa-2753-456f-98bf-723ba912f086/index.html</link>
+            <guid isPermaLink="false">52b3a2fa-2753-456f-98bf-723ba912f086</guid>
+            <pubDate>Sun, 21 Feb 2016 23:51:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bec461a7-64aa-425f-8a0d-a2bf13b30aaf.png">]]></description>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Parent-Led Pony Rides]]></title>
-            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Parent-Led </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98b941fa7f2ceb8d2906526f557e1e1ac897d85.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Sweet ponies for the tiniest Lil' Buckaroos.  Moms and dads lead the ponies with their kiddos atop, along the trails around the ranch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98b941fa7f2ceb8d2906526f557e1e1ac897d85.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
             <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
             <pubDate>Sun, 21 Feb 2016 23:47:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/employment/index.html</link>
             <guid isPermaLink="false">6ae573d0-b550-4966-a756-1699400aa36f</guid>
             <pubDate>Sun, 21 Feb 2016 21:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cowboy Camp]]></title>
-            <description><![CDATA[<article><h1>Cowboy Camp</h1><p>for kids 3-10 that aren't into horses or ponies or need a warmup.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/082a41b077f905a369fb6dc5c125d7c70fe2f760.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/61cc52d6-f6e4-4fb8-9a7b-421e3784761b/index.html</link>
-            <guid isPermaLink="false">61cc52d6-f6e4-4fb8-9a7b-421e3784761b</guid>
-            <pubDate>Sun, 21 Feb 2016 20:07:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
