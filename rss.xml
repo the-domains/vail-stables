@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables in Vail, Colorado  (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 00:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 00:21:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vibrant Summer Riding]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vail-stables/52b3a2fa-2753-456f-98bf-723ba912f086/index.html</link>
             <guid isPermaLink="false">52b3a2fa-2753-456f-98bf-723ba912f086</guid>
             <pubDate>Mon, 22 Feb 2016 00:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chartreuse Spring Riding]]></title>
+            <description><![CDATA[<article><h1>Chartreuse Spring Riding</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b475bfc0c2ea6f04348dc45955c7a3b981d4946.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/8f6ade46-317f-4317-93dd-713a5c2852f3/index.html</link>
+            <guid isPermaLink="false">8f6ade46-317f-4317-93dd-713a5c2852f3</guid>
+            <pubDate>Mon, 22 Feb 2016 00:09:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
             <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
             <pubDate>Sun, 21 Feb 2016 23:38:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meet Meno at Vail Stables ]]></title>
-            <description><![CDATA[<article><h1>Meet Meno at Vail Stables </h1><h2>This is not a one trick pony. </h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ed35487ba90dd5bfcea6012b6cacfa85654ff09.png"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/720f7a5e-a87c-48f2-a177-a26bd6439793/index.html</link>
-            <guid isPermaLink="false">720f7a5e-a87c-48f2-a177-a26bd6439793</guid>
-            <pubDate>Sun, 21 Feb 2016 23:54:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
