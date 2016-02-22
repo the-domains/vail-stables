@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:37:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:38:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
@@ -49,8 +49,15 @@
             <pubDate>Mon, 22 Feb 2016 02:00:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rocky Point Tour]]></title>
+            <description><![CDATA[<article><h1>Rocky Point Tour</h1><p>Times Vary - Click the Check Availability Button to see what rides are availailable on your special date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db3137104204169d4a9f22b576b56806aef993b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/rocky-point-tour/index.html</link>
+            <guid isPermaLink="false">28463138-c121-4657-8d4a-cc36e5b9c9bb</guid>
+            <pubDate>Mon, 22 Feb 2016 02:20:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Elk Springs Tour]]></title>
-            <description><![CDATA[<h1>Elk Springs Tour</h1>]]></description>
+            <description><![CDATA[<article><h1>Elk Springs Tour</h1><p>Half-Day Ride</p></article>]]></description>
             <link>https://thegrid.ai/vail-stables/elk-springs-tour/index.html</link>
             <guid isPermaLink="false">9d359350-af89-4259-9cd5-3270039ec45d</guid>
             <pubDate>Mon, 22 Feb 2016 02:19:12 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/horses/index.html</link>
             <guid isPermaLink="false">0f42bc7f-c2f6-4988-afb0-a23a4d8086e5</guid>
             <pubDate>Mon, 22 Feb 2016 02:03:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vail Stables]]></title>
-            <description><![CDATA[<article><h1>Vail Stables</h1><p>in Vail, Colorado</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b030f24f9e944a196e2dbf544ac703144e9654a.png"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/vail-stables/index.html</link>
-            <guid isPermaLink="false">ec1c927b-2332-4a17-80f0-4db09113293e</guid>
-            <pubDate>Mon, 22 Feb 2016 02:03:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
