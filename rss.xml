@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:14:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vibrant Summer Riding]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 22 Feb 2016 02:00:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cowboy Camp]]></title>
+            <description><![CDATA[<article><h1>Cowboy Camp</h1><p>Gearing up for a pony ride.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/082a41b077f905a369fb6dc5c125d7c70fe2f760.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/61cc52d6-f6e4-4fb8-9a7b-421e3784761b/index.html</link>
+            <guid isPermaLink="false">61cc52d6-f6e4-4fb8-9a7b-421e3784761b</guid>
+            <pubDate>Mon, 22 Feb 2016 02:02:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pony Camp]]></title>
-            <description><![CDATA[<article><h1>Pony Camp</h1><p>1/2 day camp - for kids 3-6</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fad96b0972075d3e0f7b27ab8b6c0262937321e0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Pony Camp</h1><p>1/2 day camp - for kids 3-6</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89bf39078e5a984560692658c508f3e75c9b72d7.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/pony-camp/index.html</link>
             <guid isPermaLink="false">7a28407b-69f9-4b77-b9ad-d96bcf79e6d2</guid>
             <pubDate>Mon, 22 Feb 2016 02:02:03 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/800892b2-0c35-4d58-adb2-b751a6b2f09f/index.html</link>
             <guid isPermaLink="false">800892b2-0c35-4d58-adb2-b751a6b2f09f</guid>
             <pubDate>Mon, 22 Feb 2016 02:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[USFS]]></title>
-            <description><![CDATA[<article><h1>USFS</h1><p>Vail Stables is an equal opportunity provider operating under Special Use Permit by the White River National Forest.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2fab09a96bb092e0e968976c31ad3e9e79b8676.png"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/421c1281-cb53-4642-9e10-18c3753c50fc/index.html</link>
-            <guid isPermaLink="false">421c1281-cb53-4642-9e10-18c3753c50fc</guid>
-            <pubDate>Mon, 22 Feb 2016 02:00:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
