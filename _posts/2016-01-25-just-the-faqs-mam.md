@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Bits and pieces of information, you might find helpful.'
-datePublished: '2016-02-21T22:53:37.145Z'
-dateModified: '2016-02-21T22:44:58.871Z'
-title: "Just the FAQs M'am"
+datePublished: '2016-02-22T02:03:06.576Z'
+dateModified: '2016-02-22T01:31:51.463Z'
+title: "Just the FAQs, M'am"
 author: []
 sourcePath: _posts/2016-01-25-just-the-faqs-mam.md
 published: true
@@ -22,8 +22,11 @@ url: just-the-faqs-mam/index.html
 _type: Article
 
 ---
-Cowboy Answers to City Slicker Questions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f19f251-c61f-4652-acb4-a6216f4c3ede.jpg)
+
+# Just the FAQs, M'am
+
+Cowboy Answers to City Slicker Questions
 
 ###### ****
 
