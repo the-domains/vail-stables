@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:40:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Mon, 22 Feb 2016 02:00:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dark Timber Tour]]></title>
+            <description><![CDATA[<article><h1>Dark Timber Tour</h1><h2>$115 adult-only  upgrade during checkout process</h2><p>2 Hour Ride</p></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/dark-timber-tour/index.html</link>
+            <guid isPermaLink="false">d03a6b27-0aeb-4bb8-b45e-f932189d4801</guid>
+            <pubDate>Mon, 22 Feb 2016 02:20:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rocky Point Tour]]></title>
             <description><![CDATA[<article><h1>Rocky Point Tour</h1><p>Times Vary - Click the Check Availability Button to see what rides are availailable on your special date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db3137104204169d4a9f22b576b56806aef993b.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/rocky-point-tour/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
             <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
             <pubDate>Mon, 22 Feb 2016 02:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Horse Bios]]></title>
-            <description><![CDATA[<article><h1>Horse Bios</h1><p>We get by with a little help from our friends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32f677ea1b91150e2a68b299d2cb3ca6eb97958c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/horses/index.html</link>
-            <guid isPermaLink="false">0f42bc7f-c2f6-4988-afb0-a23a4d8086e5</guid>
-            <pubDate>Mon, 22 Feb 2016 02:03:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
