@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables in Vail, Colorado  (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:03:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vibrant Summer Riding]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/vail-stables/52b3a2fa-2753-456f-98bf-723ba912f086/index.html</link>
             <guid isPermaLink="false">52b3a2fa-2753-456f-98bf-723ba912f086</guid>
             <pubDate>Mon, 22 Feb 2016 00:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adventure Riding]]></title>
+            <description><![CDATA[<article><h1>Adventure Riding</h1><p>Private tours available.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8185a853621304cbdbba43d7e788596ddc96b89.jpg"></article>]]></description>
+            <link>http://www.vailstables.com/</link>
+            <guid isPermaLink="false">9f6c3b97-bb3f-457b-bc54-c8c9891f9e65</guid>
+            <pubDate>Mon, 22 Feb 2016 02:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meet Meno at Vail Stables ]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/vibrant-wildflowers/index.html</link>
             <guid isPermaLink="false">9cde6dc0-2e3c-4ea6-b4ea-fbafbfe442e0</guid>
             <pubDate>Mon, 22 Feb 2016 01:59:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Parent-Led Pony Rides]]></title>
-            <description><![CDATA[<article><h1>Parent-Led Pony Rides</h1><p>Sweet ponies for the tiniest Lil' Buckaroos.  Moms and dads lead the ponies with their kiddos atop, along the trails around the ranch.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a98b941fa7f2ceb8d2906526f557e1e1ac897d85.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/pony-rides/index.html</link>
-            <guid isPermaLink="false">af4790a1-faa2-4f25-955e-8b69a45a54a6</guid>
-            <pubDate>Sun, 21 Feb 2016 23:47:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
