@@ -4,7 +4,7 @@
         <description><![CDATA[Vail Stables   (855) Ride-Vail]]></description>
         <link>https://thegrid.ai/vail-stables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 02:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 02:48:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vail-stables/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Guided Horseback Rides]]></title>
@@ -43,10 +43,17 @@
         </item>
         <item>
             <title><![CDATA[Location]]></title>
-            <description><![CDATA[<article><h1>Location</h1><p>Vail Village and Lionshead are on the south side of I-17.  We are on the north side, about 4 miles to the east of Safeway.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7d31c6fb3d3e83b63c1000f9e36e7265160e499.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Location</h1><p>Vail Village and Lionshead are on the south side of I-17.  We are on the north side, about 4 miles to the east of Safeway.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d560372faec4a1d11228c93845d7a72f8b0feb0c.jpg"></article>]]></description>
             <link>https://thegrid.ai/vail-stables/52b3a2fa-2753-456f-98bf-723ba912f086/index.html</link>
             <guid isPermaLink="false">52b3a2fa-2753-456f-98bf-723ba912f086</guid>
             <pubDate>Mon, 22 Feb 2016 02:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bear Hollow Tour]]></title>
+            <description><![CDATA[<article><h1>Bear Hollow Tour</h1><p>Times Vary - Click the Check Availability Button to see what rides are availailable on your special date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be29cc2a5dec838f32284db8523bb72159708f35.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vail-stables/7e091437-f781-4d28-8196-fa5484087235/index.html</link>
+            <guid isPermaLink="false">7e091437-f781-4d28-8196-fa5484087235</guid>
+            <pubDate>Mon, 22 Feb 2016 02:23:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pony Camp]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/vail-stables/dark-timber-tour/index.html</link>
             <guid isPermaLink="false">d03a6b27-0aeb-4bb8-b45e-f932189d4801</guid>
             <pubDate>Mon, 22 Feb 2016 02:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rocky Point Tour]]></title>
-            <description><![CDATA[<article><h1>Rocky Point Tour</h1><p>Times Vary - Click the Check Availability Button to see what rides are availailable on your special date.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4db3137104204169d4a9f22b576b56806aef993b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/vail-stables/rocky-point-tour/index.html</link>
-            <guid isPermaLink="false">28463138-c121-4657-8d4a-cc36e5b9c9bb</guid>
-            <pubDate>Mon, 22 Feb 2016 02:20:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
